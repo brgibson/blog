@@ -1,0 +1,1 @@
+web: node ./ghost-0.4.2/index.js --production
